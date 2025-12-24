@@ -16,14 +16,15 @@ Ciri Khas: * Dimulai dengan @extends('layouts.app'): Artinya dia meminjam kerang
 
 Dibungkus dengan @section('content') ... @endsection: Kode di dalam section ini akan otomatis "masuk" ke bagian @yield('content') yang ada di file layout.
 
+## Structure
 <img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/3488db73-f275-4bdc-a183-a9f35875e56e" />
-(Structure)
 
+## Home
 <img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/c87ac8a4-e0ff-4b0d-b49b-77e649a38a49" />
-(Home)
 
+## Login
 <img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/68c2888d-cee1-4683-baae-a05697bdb6ed" />
-(Login)
 
+## Admin
 <img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/36eb81cf-1a68-487b-a707-a875454f65a5" />
-(Admin)
+
